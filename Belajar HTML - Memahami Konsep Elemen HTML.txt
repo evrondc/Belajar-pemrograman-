@@ -1,0 +1,54 @@
+Setelah sebelumnya kita telah belajar tentang konsep dasar HTML dan bagaimana cara kerja HTML, kali ini kita akan melanjutkan pembahasan tentang HTML agar pemahaman HTML kita menjadi lebih bulat. Pada tutorial CodePolitan ini saya akan mencoba membahas tentang elemen pada HTML.
+
+Konsep tentang elemen HTML sangat penting untuk dikuasai ketika kita ingin mempelajari tentang web development. Karena semua pembahasan tentang web baik itu JavaScript, CSS, bahkan PHP pasti tidak bisa lepas dari pembahasan tentang elemen HTML. So elemen HTML adalah sebuah hal mendasar yang harus dimengerti oleh seorang web programmer.
+
+Sebelum kita memulai pembahasan tentang elemen HTML ada satu hal yang ingin saya pastikan terlebih dahulu. Masih inget tentang TAG HTML? Jika masih ingat, maka kita akan lanjut. Tapi kalau kamu belum mengenal atau lupa tentang TAG HTML, sebaiknya kamu baca terlebih dahulu tutorial saya sebelumnya tentang belajar konsep dasar html di dalamnya ada pembahasan tentang TAG HTML.
+
+Apa itu Elemen HTML?
+Elemen HTML adalah kode html yang ditulis mulai dari sebuah TAG pembuka sampai dengan TAG penutup dan diisi dengan konten di dalamnya. Bingung? Baik, mari kita buat menjadi lebih sederhana. Perhatikan kode berikut:
+
+<tagname>content</tagname>
+<tagname> disebut sebagai TAG pembuka, sedangkan </tagname> disebut sebagai TAG penutup. Adapun sesuatu yang ada diantaranya "content" disebut konten. Nah secara keseluruhan kode itu mulai dari <tagname> sampai dengan </tagname> termasuk konten di dalamnya itulah yang disebut dengan elemen HTML. Agar lebih jelas lagi, perhatikan kode berikut:
+
+<p>Ini adalah sebuah paragraf dalam HTML</p>
+Pada kode di atas mulai dari TAG P pembuka <p> sampai dengan TAG P penutup </p> itu disebut sebagai elemen, lebih tepatnya elemen P, karena terbangun dari TAG P. Sedangkan kita tahu TAG P digunakan untuk membuat sebuah paragraf dalam HTML.
+
+Walaupun pada dasarnya elemen biasanya terbangun dari TAG pembuka, konten dan TAG penutup, tapi sebenernya ada beberapa elemen HTML yang hanya terdiri dari TAG pembuka saja, tanpa tag penutup. Mislanya pada kasus TAG IMG seperti berikut:
+
+<img src="file_gambar.jpg">
+TAG IMG di atas sudah bisa disebut sebagai elemen html, walaupun hanya terdiri dari TAG pembuka saja, bahkan tanpa konten. Selain TAG IMG adalagi yang serupa dengannya yaitu TAG BR, HR, INPUT, dan beberapa lainnya.
+
+Elemen HTML Bersarang
+Elemen HTML sangat mungkin untuk bersarang (nested), yaitu memiliki elemen lain di dalamnya. Perhatikan kode berikut:
+
+<!DOCTYPE html>
+<html>
+    <body>
+
+        <h1>Sebuah Heading</h1>
+        <p>Sebuah Paragraf dengan <strong>tulisan tebal</strong> di dalamnya.</p>
+
+    </body>
+</html>
+Pada contoh kode HTML di atas, kita memiliki 4 buah elemen HTML, yaitu elemen HTML, BODY, H1 dan P. Di dalam elemen HTML terdapat elemen BODY. Dan di dalam elemen BODY terdapat 2 elemen lainnya yaitu elemen H1 dan P. Dan di dalam elemen P pun terdapat elemen lainnya yaitu elemen STRONG. Itulah yang disebut dengan elemen bersarang, artinya di dalam konten elemennya mengandung elemen lainnya.
+
+Hubungan Antar Elemen HTML
+Ada 5 jenis hubungan yang mungkin terjadi antar elemen dalam HTML, yaitu sebagai berikut:
+
+1. Parent Element
+Sebuah elemen yang secara langsung memiliki elemen lain di dalamnya, disebut sebagai parent element dari elemen yang di dalamnya. Pada contoh kode di atas elemen HTML merupakan parent dari elemen BODY. Dan elemen BODY merupakan parent element dari elemen H1 dan P. Juga elemen P merupakan parent element dari elemen STRONG. Pada contoh di atas walaupun elemen STRONG berada di dalam elemen BODY, tapi BODY tidak disebut sebagai parent element dari STRONG, karena tidak secara langsung berada di dalam BODY.
+
+2. Child Element
+Sebuah elemen yang secara langsung berada di dalam sebuah elemen tertentu, maka element tersebut disebut sebagai child element dari elemen yang menaunginya. Bla dalam contoh di atas, maka BODY adalah child element dari HTML. P adalah child element dari BODY. Dan STRONG adalah child element dari P.
+
+3. Sibling Element
+Sebuah sibling element adalah elemen yang memiliki parent element yang sama dengan elemen lainnya dan berada dalam tingkatan yang sama. Adapun dalam contoh di atas maka yang disebut sibling element adalah H1 terhadap P atau sebaliknya.
+
+4. Ancestor Element
+Sebuah elemen yang di dalamnya terdapat elemen-elemen lain, maka elemen tersebut merupakan ancestor element dari elemen yang ada di dalamnya. Berbeda dengan parent element, ancestor element tidak mesti secara langsung berada di atasnya. Dalam contoh di atas HTML masih termasuk ancestor element dari H1, P ataupun STRONG. Intinya semua yang ada di atas sebuah elemen maka disebut sebagai ancestor element dari elemen yang bersangkutan.
+
+5. Descendant Element
+Sebuah elemen yang ada di dalam elemen lain, maka elemen tersebut merupakan descendant element dari elemen-elemen yang ada mengandungnya, walaupun tidak harus secara langsung. Dalam contoh kode di atas, maka STRONG merupakan descendant element dari P, BODY dan HTML. Tapi STRONG tidak termasuk descendant element dari H1.
+
+Penutup
+Demikianlah penjelasan tentang konsep dasar dari elemen pada HTML pada tutorial belajar HTML. Di tutorial selanjutnya kita akan belajar menggunakan heading dalam HTML. Semoga bermanfaat.
