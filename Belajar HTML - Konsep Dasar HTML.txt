@@ -1,0 +1,57 @@
+HTML adalah kependekan dari Hyper Text Markup Language, yaitu sebuah bahasa markup yang digunakan untuk membuat sebuah halaman web. Si HTML inilah yang menyusun sebuah halaman web menjadi sebagaimana yang kita lihat melalui browser (penjelajah internet). So, belajar HTML dan mengerti bagaimana cara HTML bekerja akan sangat penting jika kamu ingin terjun ke dunia web development.
+
+Sebenernya ketika bekerja dalam menampilkan dan menyusun sebuah halaman web si HTML ini nggak sendiri, dia juga dibantu oleh teman-temannya yang lain yaitu si CSS dan si JavaScript. Si HTML sendiri bertugas menyusun kerangka halaman web, si CSS yang akan merapihkan dan memperindah tampilan halaman web, sedangkan si JavaScript-lah yang bertugas membuat halaman web menjadi lebih interaktif. Pada kesempatan yang lain kita akan coba membahas CSS dan JavaScript, tapi untuk kali ini marilah kita buat si HTML menjadi tokoh utama :D
+
+Perlu diperhatikan, HTML bukanlah sebuah bahasa pemrograman. HTML merupakan bahasa markup yang berisi perintah-perintah dengan format tertentu yang terstruktur untuk menampilkan tampilan tertentu. Baik, mari kita buat menjadi lebih sederhana. Misalnya di halaman web kita sering melihat ada teks yang ditulis tebal seperti berikut:
+
+tulisan tebal
+
+Nah untuk bisa membuat sebuah tulisan tebal seperti di atas, maka kita bisa membuatnya dengan HTML dengan kode berikut:
+
+<strong>tulisan tebal</strong>
+Sederhananya adalah, jika kita menuliskan kode seperti di atas, maka nanti si browser akan menampilkan tulisan tebal. Jadi HTML adalah format penulisan kode tertetu yang mampu dimengerti oleh browser untuk menampilkan tampilan tertentu.
+
+Oke sekarang saya paham, selanjutnya dimana saya bisa menulis kode HTML dan bagaimana caranya?
+Benar, untuk dapat membuat sebuah halaman web dan dapat ditampilkan oleh browser sebagaimana yang kita inginkan tentu dong ada aturan dan formatnya. Nggak mungkin kita tulis kode-kode HTML di Photoshop kemudian kita jalankan melalui browser. Ya nggak akan jalanlah. Untuk menulis kode HTML kita bisa menggunakan software code editor seperti Notepad, Notepad++, Sublime Text, Atom, atau yang lainnya. Dan agar kode kita mampu dibaca oleh browser dengan baik kita harus menyimpannya dalam format HTML yaitu .htm atau .html.
+
+Berikut ini contoh sederhana penulisan kode HTML:
+
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>Selamat Datang HTML</title>
+    </head>
+    <body>
+        <p>Halo dunia!</p>
+
+        <p><b>Tulisan tebal</b>, <i>tulisan miring</i>, <u>tulisan bergaris bawah</u></p>
+    </body>
+</html>
+Kita bisa menuliskan kode tersebut pada code editor seperti Notepad, Sublime Text atau yang lainnya. Adapun code editor yang saya gunakan disini adalah Sublime Text 2. Sekali lagi kamu bebas menggunakan code editor yang lain, itu hanya masalah pilihan saja.
+
+Screen Shot 2015-12-26 at 13.10.23
+Kemudian kita simpan dengan format .htm atau .html, misalnya disini untuk contoh di atas kita simpan dengan nama index.html. Maka berikut ini tampilannya jika dibuka melalui browser:
+
+Screen Shot 2015-12-20 at 11.46.35
+Pada contoh kode HTML di atas kita bisa melihat bahwa untuk memulai menulis kode HTML maka kita harus memulainya dengan kode <html> dan ditutup dengan </html>. Adapun mengenai kode <!DOCTYPE HTML> itu berfungsi sebagai pengenal HTML5 (di lain kesempatan insya Allah akan kita bahas), sementara ikuti saja seperti demikian.
+
+Kode-kode yang ada di antara <head> dan </head> berfungsi untuk memberikan informasi tambahan kepada browser, untuk contoh di atas misalnya ada <title> yang artinya memberikan informasi ke browser bahwa halaman web yang dibuat ini memiliki judul Selamat Datang HTML.
+
+Apa yang ingin kita tampilkan pada browser terletak di antara kode <body> dan </body>. Yups, itulah inti dari kode kita. Disitulah kode-kode yang akan menyusun halaman web ditulis.
+
+Sebagai penutup untuk panduan belajar HTML dasar ini saya ingin memberitahukan bahwa ada dua hal lainnya terkait HTML yang harus dipahami untuk memulai belajar HTML, yaitu TAG dan Atribut.
+
+TAG
+Sebenernya dari awal kita membahas HTML kita sudah berbicara tentang TAG, hanya saja belum saya jelaskan detailnya. TAG sederhananya adalah kode-kode tertentu yang menjadi pengenal bahwa kode tersebut adalah HTML dan bisa diterjemahkan oleh browser dengan tampilan tertentu. Misalnya tadi, untuk membuat sebuah tulisan tebal, maka kita bisa menggunakan TAG STRONG, atau TAG B. Untuk membuat paragraf kita bisa menggunakan TAG P. Dan masih banyak TAG HTML lainnya, tentunya dengan fungsi yang berbeda-beda. Dikesempatan lain akan kita pelajari lebih jauh. Untuk menuliskan TAG HTML kita bisa menggunakan huruf kecil ataupun kapital, bebas-bebas saja, browser sudah mengenalinya kok.
+
+ATRIBUT
+Atribut adalah karakteristik tambahan pada suatu TAG. Misalnya seperti yang sebelumnya sudah saya informasikan bahwa untuk membuat paragraf kita bisa menggunakan TAG P. Secara default paragraf yang akan ditampilkan oleh TAG P adalah rata kiri. Tapi jika kita ingin membuatnya rata tengah, kita bisa menambahkan atribut ALIGN dengan value CENTER ke dalam TAG P tersebut. Misalnya seperti berikut:
+
+<p align="center">Untuk menampilkan tulisan rata tengah</p>
+Setiap TAG memiliki atributnya masing-masing tergantung bagaimana sifat dari TAG tersebut. Dan sama seperti halnya dengan TAG, kita juga bebas menggunakan huruf kecil atau kapital dalam menuliskan atribut di dalam HTML.
+
+Demikianlah sedikit panduan belajar HTML dasar, semoga dapat bermanfaat bagi temen-temen yang sedang dalam proses belajar untuk menjadi web developer. Tenang saja, belajar HTML itu nggak susah kok, asalkan dicoba untuk dipraktekan dan terus berlatih pasti akan mudah untuk dikuasai. Ini adalah tutorial pertama pada seri belajar html yang saya tulis, kedepannya saya akan coba melanjutkan pembahasan belajar html ini dengan tutorial-tutorial lainnya. Untuk tutorial selanjutnya kita akan coba belajar tentang konsep elemen di HTML.
+
+Dan buat kamu yang ingin belajar secara interactive tentang HTML, kamu juga bisa belajar melalui Interactive Coding HTML, kami sudah menyusun materinya sedemikian rupa agar mudah dipahami. Sekali lagi selamat belajar.
+
+Enjoy coding!
