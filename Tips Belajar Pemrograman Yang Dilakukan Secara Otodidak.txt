@@ -1,0 +1,77 @@
+Pemrograman adalah suatu seni dalam menggunakan satu atau lebih algoritme yang saling berhubungan dengan menggunakan suatu bahasa pemrograman tertentu sehingga menjadi suatu program komputer. Untuk kegiatan belajar pemrograman dapat dikatakan mudah, jika dilakukan dengan serius dan ditekuni secara mendalam. Banyak yang bertanya apakah belajar pemrograman dapat dilakukan dengan otodidak? Jawabannya bisa. Belajar pemrograman secara otodidak menjadi pilihan untuk beberapa developer.
+
+Baca Juga: Cara Enjoy Memulai Belajar Pemrograman
+
+Belajar pemrograman secara otodidak pada zaman sekarang semakin mudah dilakukan. Karena, terdapat banyak sumber media belajar pemrogramanyang dapat diakses. Informasi yang didapat pun dapat lebih cepat dan lebih mudah diterima.
+
+Berikut adalah beberapa tips yang dapat dilakukan jika belajar pemrograman secara otodidak:
+
+1. Menentukan Bahasa Pemrograman Yang Akan Dipelajari
+Source: Google
+
+Bahasa pemrograman yang sedang berkembang akhir-akhir ini sangatlah banyak. Tetapi, tidak semua bahasa pemrograman harus dipelajari secara bersamaan. Agar dapat mempelajarinya dengan mudah, maka Anda harus menentukan Bahasa pemrograman apa yang akan dipelajari terlebih dahulu. Anda dapat melihat apa bahasa pemrograman apa saja yang paling cocok untuk dipelajari pertama kali dalam artikel "Bahasa Pemrograman Apa Yang Paling Cocok untuk Digunakan Pertama kali"
+
+Sesuaikan bahasa pemrograman yang akan dipelajari dengan kemampuan yang kita miliki. Dengan begitu, Anda dapat lebih mudah untuk belajar pemrograman dan mengerti apa yang dipelajari. Jika Anda baru saja memulai untuk belajar pemrograman, mungkin dapat dilakukan dengan html dan jika Anda sudah menguasai bidang tersebut lanjutkan ke tahap berikutnya. Jadi, lakukan dengan bahasa pemrograman yang paling mudah dipelajari.
+
+Belajar pemrograman pun tidak hanya dilakukan dengan cara menguasai satu bahasa pemrograman. Jika sudah menguasai satu bahasa pemrograman, tingkatkanlah kemampuan Anda dengan cara mempelajari bahasa pemrograman yang lebih sulit tingkatannya. Dengan begitu, kemampuan Anda untuk belajar pemrograman meningkat.
+
+Baca juga artikel kami Belajar HTML - Konsep Dasar HTML
+Baca yang lainnya juga Belajar HTML - Memahami Konsep Elemen HTML
+
+2. Gunakan Modul atau Gunakan Sumber yang Menyediakan Tutorial Lengkap
+Source: Google
+
+Untuk belajar pemrograman kita harus memilik sumber yang tepat. Modul yang digunakan pun harus lengkap dan tersusun rapi, agar memudahkan proses belajar pemrograman. Sumber belajar secara terpisah terkadang dapat membingungkan para pengguna. Anda bisa menemukan tutorial-tutorial yang paling mudah untuk dipahami salah satunya yaitu CodePolitan
+
+Kita harus mencari sumber yang menyediakan tutorial secara lengkap. Hal ini dapat mempermudah kita untuk mempraktekan ilmu yang sedang dipelajari. Usahakan mencari modul atau tutorial yang menyediakan materi-materi yang sedang dipelajari secara lengkap. Salah satu web yang menyediakan tutorial dan pemberlajaran secara lengkap dan diarahkan secara tersusun yaitu (https://www.codepolitan.com/learn)
+
+3. Buat Jadwal Belajar Pemrograman Secara teratur
+Source: Google
+
+Dengan menentukan jadwal belajar, tentu akan membuat anda melakukannya secara rutin dan lama-kelamaan akan menjadi kebiasaan. Sediakan waktu setidaknya 1-2 jam untuk belajar pemrograman. Jangan lakukan hal lain, cukup fokus untuk belajar pemrograman. Dengan begitu, Anda dapat lebih cepat mengerti dan lebih mudah untuk menyerap materi yang sedang dipelajari.
+
+Agar jadwal tersebut dapat terlaksanak dengan baik, Anda dapat memanfaatkan Google Calendar agar Anda dapat meningat waktu untuk melaksanakan belajar pemrograman. Maka, Anda dapat mengingat waktu belajar Anda karena sudah diingatkan oleh Google Calendar. Atau cara yang paling mudah adalah buat jadwal belajar di Devschool.id untuk pembelajaran intensif dan terarah.
+
+4. Perbanyak Praktek
+Source: Google
+
+Tahapan harus dilakukan dengan cara mempraktikannya, tidak hanya dihapal. Mungkin Anda perlu mengulang beberapa kali agar Anda dapat mengingat hal yang sudah Anda kuasai. Tidak ada artinya jika hanya membaca modul-modul yang sudah Anda cari sebelumnya. Jika memang Anda masih merasa kebingungan bagaimana cara mempraktekannya, Anda bisa mengikuti kegiatan pembelajaran online melalui CodePolitan (website yang sedang Anda baca sekarang). Disitu terdapat berbagai macam artikel yang dapat membantu Anda dalam proses belajar pemrograman.
+
+Dalam belajar pemrograman, kita cukup menulis dan membaca saja, mengapa? Karena dengan menulis, Anda bisa membuat kode Anda sendiri dan dengan membaca, Anda dapat memahami apa kode yang ditulis oleh orang lain. Tidak perlu banyak berbicara, karena yang dibutuhkan seorang programmer adalah keahliannya dalam membuat program, bukan keahliannya dalam membual.
+
+Ayo daftar belajar online di Codepolitan : (https://www.codepolitan.com/learn)
+Materi-materi di Codepolitan meliputi:
+
+Mengenal Pemrograman Komputer
+Belajar Dasar-dasar HTML dan CSS
+Menjadi Fullstack PHP Web Developer
+Belajar Pemrograman PHP
+5. Jangan Copy-Paste
+Source: Google
+
+Dalam belajar pemrograman, hal yang tidak boleh dilakukan adalah Copy-Paste dalam pembelajaran. Jangan selalu terpaku pada modul atau tutorial yang ada. Cukup kembangkan idemu dalam belajar. Jadi otak akan lebih mudah untuk menyerapnya dan daya kreativitas pun akan semakin meningkat.
+
+Dampak yang timbul dari Copy-Paste pada saat belajar, kemampuan Anda hanya akan terpaku seperti tutorial dan Anda tidak dapat mengembangkan kreativitas Anda pada membuat program. Pengetahuan Anda pun akan terbatas karena Anda hanya mengikuti tutorial yang ada.
+
+6. Coba Perbaiki Sendiri
+Source: Google
+
+Hal selanjutnya yang harus Anda lakukan adalah coba perbaiki sendiri kesalahan atau debug yang ada. Hal ini bertujuan agar Anda mampu memperbaiki kesalahan atau debug yang ada jika terjadi kembali pada program yang akan Anda buat. Cukup mencari cara atau teliti kembali dalam membuat suatu program maka Anda dapat menemukan kesalahan dari program Anda.
+
+Tetapi, ada hal yang dapat kamu lakukan jika memang sudah benar-benar merasa kebingungan yaitu menanyakannya pada orang lain. Menemukan sendiri solusi dari masalah yang Anda temui dalam membuat suatu program dapat melekat lebih lama di otak Anda. Cukup mencoba sesuatu untuk memperbaiki masalah yang ada.
+
+Baca Juga: Tips-tips dalam mencari Bug
+
+7. Sedikit-sedikit Lama-lama Jadi Bukit
+Source: Google
+
+Tahapan berikutnya yang harus Anda lakukan adalah tanamkan prinsip "sedikit-sedikit lama-lama menjadi bukit" artinya apa? Cukup lakukan sesuatu secara sedikit-sedikit tetapi konsisten, contohnya yaitu lakukan belajar pemrograman selama 1 jam setiap hari lebih baik daripada seminggu sekali dan dilakukan secara seharian full. Karena jika dilakukan seharian full, jangka waktu antara belajar pada pertama kali dan belajar pada kedua kali memiliki perbedaan jangka waktu yang relatif berjauhan. Jika dilakukan 1 jam perhari selama konsisten, media pembelajaran yang ditangkap akan lebih mudah dan akan lebih cepat untuk berkembang.
+
+Cukup mulai dari hal kecil, secara konsisten dan terus menerus. Karena dengan hal tersebut, Anda akan lebih mudah mengingat materi yang Anda pelajari. Cukup lakukannya secara konsisten maka Anda dapat mengerti lebih banyak materi yang Anda pelajari.
+
+8. Istirahat
+Source: Google
+
+Hal terakhir yang harus Anda lakukan adalah Istirahat. Tubuh dan otak Anda pun perlu istirahat setelah mempelajari berbagai macam bahasa pemrograman yang harus dimengerti. Jangan lupakan hal yang satu ini karena hal terpenting dari kegiatan belajar pemrograman adalah istirahat.
+
+Setidaknya Anda perlu mengistirahatkan tubuh Anda selama 8 jam per hari dikarenakan otak anda perlu fresh untuk melakukan kegiatan pembelajaran, kegiatan belajar apapun itu.Termasuk kegiatan belajar pemrograman. Karena, jika otak Anda tidak fresh pada saat belajar pemrograman, Anda tidak akan fokus untuk mempelajari materi yang sudah Anda temukan.
